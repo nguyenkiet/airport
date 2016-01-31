@@ -1,1 +1,8 @@
-{"success":true,"taxi_list":[{"id":"1"}]}
+{"success":true,
+"taxi_list":
+[{
+  "logoUrl":"http://downloadicons.net/sites/default/files/taxi-icon-61102.png",
+  "brandName": "Taxi Vina Sun Group",
+  "address": "Dia chi cong ty",
+  "phone": "0963029933"
+}]}
