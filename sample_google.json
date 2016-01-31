@@ -1,0 +1,437 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.diadiem.com/\"\u003eDiadiem.com\u003c/a\u003e" ],
+   "next_page_token" : "CoQC_wAAAFifRup6Z3UKi2W4cT07f4Ir4JNTQIUlsjfIQtuj0eWGJC9HTgD94l-0V51G8hrgedeDQAnGSBnJGqYetxMb5mw-TO5RVnOj8uv9hpe3qrq9xZjfdW6k8ODaC5zBXsD7WmMb6qmVYzTjFjjqzVUflBO7dBHd-CsmyMeIaDECzEMiIiFU4VnAKrAAjXyFGGs-mr1mG5-QdZnJj1VLbd83Ggm0x4P_scEX9g4yS7tvSWBtHH1q16FTcYaEEBsvJOh1MbymJ2Tc---N6H-r73t8jF9NBdL0kRVXHwP5myhHasq_oVDi0MXnkThXbnSZidv-oxbydvnrZhQmI9t-58jMx7kSECmooIAHKcXZunjqschh2FEaFOfN4hMEv4ql0JsmxxN45trqbPvX",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.851673,
+               "lng" : 106.629366
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "691d467d189ffbdaf1befb8de05b05d5cf3eee35",
+         "name" : "BẾN XE BUÝT CÔNG VIÊN PHẦN MỀM QUANG TRUNG",
+         "place_id" : "ChIJ6wyQ4IkpdTERrz1Bdgcr6jM",
+         "reference" : "CpQBhwAAAIJiR4aDVd25-t9IaS-fKKyXh6nM0Qus-8SbyOYD46kOmepWqMbH5G0LCMqaCDkDX2Q20eiTdMLUqRjYAVSdnKCJ2u7O7bz6hsJmdbqLS2h7PsTdzN0wg54Ss3b4Z4givvC_L0khWmRvNTwDqX0_pyOZCrmtt8whx9vrXSOc9ag3fry92EMFu5HnctFF34UK1hIQcG0tbhDf1Sp7YgpA2vo_UxoUiJwtWcbVI69ZKrcdWL7Qb0d9YRs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.806969,
+               "lng" : 106.607911
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "74ae5cb504182a226da1cc68f8918b7095d8149d",
+         "name" : "BẾN XE BUÝT KCN TÂN BÌNH",
+         "place_id" : "ChIJp5lRDu0rdTERVruLMfmvW-U",
+         "reference" : "CoQBcQAAAA_UOvAGJVFfuWziB9XYBvt-WhsXi1QXOaD6hyTmhiVsqJF-s-v_F7kFNhrThBMxv6A6iwXm9RqfOME2CBeEOITKsCSMGuHR3x-__xcGwiDH1eMH-CdI9ow5fNfGlxqFcCe1JVbBk7J8ik2pnoWIEIrdmED0fWRCArEqRZ4gdBUuEhBNEsEdofKouDulxYHmJQKMGhS_KLSnfz803uDzrq8Ko43yA5JNDQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.7881172,
+               "lng" : 106.6185387
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "d9b54a5f0f80eff1bf0eb7b1b40526e8ffcc1ad8",
+         "name" : "Bến xe buýt Cư xá Nhiêu Lộc",
+         "place_id" : "ChIJAYLq4QUsdTER-tF7SA4gPqc",
+         "reference" : "CoQBdwAAAEwbF6Hf87LBwBlei2gnjdRJVhrAICZc0fLMf8IlRAAASpEg0zzSOPbwjj5IYKwbUqNwTzhWk6Hgl0pm05N_HjGh1e_LvCl33m1YaPk5bhYGivjqvziD_i7AW86f8s3B94L28PBEJ7SujVxgUka8X_0tSflPHw8UscAkTzhygzaMEhD0-nqwUAwhim9B1x9iQKvdGhTat0KU_Zl59sERwXQWWdkoEoa57g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8776124,
+               "lng" : 106.6419348
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4a165448725e71a84d6d08a5a7dbaf76bdf91d34",
+         "name" : "Bến xe buýt Hiệp Thành",
+         "place_id" : "ChIJH8yoxOIpdTERAatcm3EO_nE",
+         "reference" : "CnRvAAAAuQDfNjRbQlijisTwOKfDuNI0yka2BnviqqHQ6bPP8-EiYbaPIXjeixEMijYHp1dm3W8dACIA0yLDKHKZ0x8qWRC3b2Qt6jTt6WtgVgOiOBkfjpQLgu-QIxWDhy0q3Rkr8v9dF1NjgrKPma1CB9vdDRIQdoJRHLmVObYtoAh6mqhFFhoUKBBFMtOApCUvMH3jrGEbQrkzx9U",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "HT17, Hiệp Thành, Hồ Chí Minh"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.879497,
+               "lng" : 106.638531
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "2ad62e24b68c1b8f06fa5912b28d678a3a0ba159",
+         "name" : "BẾN XE BUÝT CHỢ HIỆP THÀNH",
+         "place_id" : "ChIJxxL1fP0pdTER832gDmN26Q8",
+         "reference" : "CoQBdQAAAGxnOQwps0A5YjmAU-sVXOiKiaaIIxePrQhuyiy-FY73CW9oiJrVQvCIim3J7-qHWYiHuKwwmoKfoPohu0FsjPfQkMgNIFI9pJPsmzS2XTRFSKqlG0OJq3hnxKqx2PDj7zTQH31YgGOOejOY2RzM3a6tmzbwvYXxUVYSIww879kyEhDuGZDShUxcMSPNR1quc1ufGhSji39Q1smmenakt5K01JmHzWsDnQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.761591,
+               "lng" : 106.676645
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "0e81fa3cf1e8beb4d6a642ddb9b8a73008244745",
+         "name" : "BẾN XE BUÝT LÊ HỒNG PHONG",
+         "place_id" : "ChIJtfb0ix0vdTERiLA-UPKA62s",
+         "reference" : "CoQBcgAAABmJIJk1nVpsxi8vMYu-Qn_7MN5ia3KR2722JjDw1Ic0QJQrvR50hennnHgEK7awaT4qGZ6OivMhDZIyLOIf-x1o6My8AYFvYOL4_v6YTkIzUE8LAD2luQcQIKezAV-34YSlbcNR0VGu5BPAxCAlf1U-coVb-zvVtRWx0NLxd2TKEhBS1E3ymHlx8l9z3Z0HDCdDGhQfadn76G_vifSVSZJ7axerrC1SXg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8788606,
+               "lng" : 106.6828854
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "ec7676a1037e71fcadcd86f64326a11295cf37ea",
+         "name" : "Bến xe Thạnh Lộc",
+         "place_id" : "ChIJLZ56ctbXdDERnRuAWAyzzcY",
+         "reference" : "CnRqAAAAxrSZWrLOGarNy6_zXhz6IbZnFi6xNF7yK0hJR06OYAQYp7-nNLNGGzMzJWyBUb48ioz0Nzju6atIxJy96PRbE-G4302bOAozgtqnK3DTVchJ-w2Milps2HA_NjpO7XaKjTyupnymE9u4q1TOQQLG6RIQCGAt4jpLrdjkbMLnE6X59RoULeKZfg_6EvKeQYwFS2LaxcaA9OM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Thạnh Lộc, Hồ Chí Minh"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8788514,
+               "lng" : 106.6829967
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "219f9444f90044e182afbf7115b1cd70327a535f",
+         "name" : "Bến Xe Buýt 03 - Trung Tâm Điều Hành Vận Tải Hành Khách Công Cộng",
+         "place_id" : "ChIJO_CZbdbXdDERnL5BfF7Z9e8",
+         "reference" : "CrQBpwAAACDnmqT7pgqTbkFGWUxny_R4Py2wL9_mEGdicvmnsHYK4mcTjvy9RAmxRZwQaRkw-VJNt6seYjHnBrWJd-_oMsji56KwYnUe95ZcQG0lfHLnY07-XoHXorcL4SwQiJ_gSkzd0UYYcjskt3_vZw8A9rXKsTDIEfFEM6HigJcOwU0geAJ7xEk4XXWNdQwbUpVBrOZ9EJKKlbcLmUPFQJhNvkzkd7xZd1YokQmdowMz62RBEhAv7fE5VLME--AaPDvOPT6AGhT6mYTMMAPJUSr_IKnDs3v3D6wruQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Thạnh Lộc 29, Thạnh Lộc, 12"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.773322,
+               "lng" : 106.70601
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "62ad8d8c66237f6343b3f762601aab982ef55521",
+         "name" : "BẾN XE BUÝT ĐỒNG KHỞI",
+         "place_id" : "ChIJoTf3HEQvdTERBseYX72OHuk",
+         "reference" : "CoQBcQAAAOeIUrWzEGZee4A_6J46js-IOFQRU7G4O6Y8VHiSYflG_Z56Ks89gKbywBvA4MUZNF2lAXQ0bigzPEL_5BRPHmNsivswEAgVDw076fOz9wHxxGaB86RgDViZaYy59G3hAckQwLVRR-QKeWdufhURPkiAq-54jMYsk220MyuvhW6TEhDI6Fr25WvMC5_3_tYxF-bKGhSXGnfR__2YYvlRDNtAvjZWohlFjA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.86998,
+               "lng" : 106.5967208
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "1333ed255992a56f5a64c9b8654a83ee5b17d1a4",
+         "name" : "Bui Mon Bus Stop Station",
+         "place_id" : "ChIJIQTMNG4qdTER1vJ0o9w3Uro",
+         "reference" : "CnRsAAAAtjHm_GdeKZ3jnNhj4S0TAQzF45XbaCD5jylS1eL0fgmHqEmHgQKdjxFMV_dHhhG04flRqCe0c2C2LlH_ATCr0jxrCon49tRnis24NG2nZxpWf_Kfb5ROwEn8zLkP7ntL_hYaXn7oXPOsOagk7wl7FxIQlHHjFGUjDRtj4sw4d7UK-hoUu0H0jbtOdYgXFWMhNxL4uP3Kths",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "58/6 22, Tân Xuân"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8807374,
+               "lng" : 106.6984677
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "7b7fdfa0a7da70d4e4857389186d8d67bf96dcf7",
+         "name" : "Bus Stop",
+         "place_id" : "ChIJlRPEFN7XdDER6c-t--aLDz0",
+         "reference" : "CmRbAAAAvdukAHwuBsJMPj24mwxOCcXBoZ-0uXopfgMQJijU9c5RWIkJi0nQRpG49iTqxS_ONbSu3cnHOgAfSkSDJZHLVJKEU9KlgexxcLrSQRGEC8SArOg2aKRdVIaf74mKNX7rEhDbeh3F-HhUV0WaMlit11MUGhTGWSQfZW-LImTMs39BaFqwMEyESQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "tx. Thuận An"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.7529011,
+               "lng" : 106.7018115
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "93815135b333789e1d60496a91b1e40ff0ca6706",
+         "name" : "bến xe buýt cảng Quận 4",
+         "photos" : [
+            {
+               "height" : 1918,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110046291038831897019/photos\"\u003eMinh Hoang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAvblfjZ03vB8ueCBxzhql69-yTsnHmBKBKYdiGoxpHnpBuN5HdCE4-pFqhSA4lTZIz1wprZ71leePdy14sF5Zs1RueWc4EaAx-0k4y2-az6KQ07fQUoFDEHHcaDuFypvKEhCnsAKul8dsO8Bis5RgoPyyGhQq55qqSyquPEZmHOXczcApFczDnQ",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJTxu2EHMvdTER3_sZAzim_rc",
+         "reference" : "CoQBcgAAAGcLG2P83kM2TQ8sryrzqbtsa0ZaFbT_tF7-jS8Ci-UCPrfr3-WPyHxPIf5Mhwy63Vh797ErPy-dnf0Yxoq-fi55yQRLdBxCyZ411kMBEB3b3Fbkxs9R-nVgu7grKvqhfGyHBkNG0g_0c-Kxf6fDsU6Oov-emSzkQMX63SfCwzFREhBXGNtEZ-0-oM04gaWgX0PkGhT324jBNMy4osq2pS3OzS1ITM7TnA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Tôn Thất Thuyết, phường 3"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8638267,
+               "lng" : 106.7244905
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "e1e2eca22ad4cfbf245b4757f3e64493a9b5b3b8",
+         "name" : "Bus Stop",
+         "place_id" : "ChIJvS-Os-IndTERQpTgy2yl0K8",
+         "reference" : "CmRcAAAA2XbgC9qAlBbGiUfPDTuWqEj65PghtOP1DDYZIfPWoSStUvYaOBzW5tTXT_aC-UOxMWHkZpFp-YiIgDDsMgZ29DS00I-fj_7aKYOn3jc73yM7T4QfX9T-NYsAKG6v7d9hEhDNIKxUKQSYK2rnx84NgU_TGhRckm5HPJ-GuFFYbENMfHwmhE-zMg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Quốc lộ 13, Hiệp Bình Phước"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.806305,
+               "lng" : 106.566009
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "f3feb834a54ffcd6742ae56995327016efd3b121",
+         "name" : "BẾN XE BUÝT KDC VĨNH LỘC A",
+         "place_id" : "ChIJ9-dClGUrdTERmIuWBcdpPJc",
+         "reference" : "CoQBdAAAAEw5QXs88aRtatXD3Fbg6Qqx5i1XYauVwxkMzdOHXT3ao5C9EeAYHrZKmFZGhGE1RvoxUcdY6SEaf7E0OoGFR2NR4QVRm0Hk1c15lhV48xkLitBRpyhEwKtSKYqjpmgasOsavqsrwDUHKk5ZbkA9DYoR347QeEvFYx0tJUAnH6YUEhCZBSgg8MfWlJbAKk9weA_6GhQ6USz7ITFMOmzuidKfV7Omu6i6TQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.833448,
+               "lng" : 106.744057
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "09835466698c97a5ba362a309008d9c74f5cf4fd",
+         "name" : "BẾN XE BUÝT BÌNH QUỚI",
+         "place_id" : "ChIJEdzHrMsndTERntmAltjaNmk",
+         "reference" : "CnRuAAAA9u1R3PsmhG0LfO5sZL4gpDhq9win2y9ycMRA6HD6IWX_aFyUN5WoPsgz3ucQTCmim1xkKuM4FRAaxCDWRtL9uMpyYr0odQ9VSwBlsOyLLck2Uho94ivQVF7sVC70GU6WSZ7gcQxkcp4C722oGEo7TRIQ0vH0x36VpFXPimPxQy_zAhoUo6jdd9PgzJ_-Od4Jo4wsxl50dTY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.734012,
+               "lng" : 106.68905
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "b4449a906781fd3ab224363536a4be9b11d387d2",
+         "name" : "BẾN XE BUÝT KDC TRUNG SƠN",
+         "place_id" : "ChIJ03aavbovdTERzhW2bwTIfXY",
+         "reference" : "CnRwAAAAWj_OjiPfvLGYYfEnww5s7YCnUAP39G_LgwPA0B6GbpyRX-XfnWpgiXRICnjfSYsJywZYQOK2oPrJyreoU22wFE_zWu1zDR7ClyqbflHsnLVtpbLzAhJZviQtTLNhzhjJvhp-RP0HttA6dMsmA_Q-JRIQd6saxS3g4GZ72LT7Il4sEBoULyJO56SdhwUpE42zUFvqeLZMcAQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.753842,
+               "lng" : 106.720705
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "7c09ba5aee6a2e281b1f6b02e742985fd2a4cb99",
+         "name" : "BẾN XE BUÝT CƯ XÁ NGÂN HÀNG",
+         "place_id" : "ChIJo0cHH30vdTERlFRDuWQtRss",
+         "reference" : "CoQBdgAAAFKoam24fmVQXT7_OSXApMGsqBthnKwW-NJ46J8pObvXYRKlHkWsRMlRAj8HfOxNpF36-nOPyZGsS8Eltr3N9a97TMDcLJMCUtuX2DYV2bTyNmCHEJOOdC68gELH3VzBDC4ybucnSmBZteQz8uXC_xLF6N6R6Jh-2vXWt2PTTbB-EhC8h9xyYblTXzEKfxVzVWmEGhRIkO8aM7p9aBW_17Wr4RIRLYBxtw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8932192,
+               "lng" : 106.5828998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "9cdc4b53c56c1635c800c5013230d4c851c557d7",
+         "name" : "BẾN XE BUÝT 19/5",
+         "place_id" : "ChIJiwcPsYLVdDERenlwGIXNAAM",
+         "reference" : "CnRmAAAAmZhDjBIUhCcW0KjwxSpEsxwOqNffc96jmq03OhqzE7ePmtZgC9FhCkQTlEa_AdC0zMRb_wJnDL65vn8w2isjFRG556Jm8Wl5dhZaVf1XojBHdtdg8eJTHkuevexqjpYbujo42wO156Yqe07z8t0dkxIQi_y2TitqbD1RKluce-8s2xoUBwQkD3YnnAPzyY82uaHTUje_w4s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Tân Thới Nhì, Hồ Chí Minh"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.820376,
+               "lng" : 106.7580611
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "0c5ec6377cde80161a00d66a7156bd98e633a32a",
+         "name" : "Bus Stop",
+         "place_id" : "ChIJ07Ja208mdTERGtPxOoSmfL0",
+         "reference" : "CmRcAAAAffVAwNxMM712wirMFSe6SIZdMMJ19joVlgYtWlaSMaQ4M0mWuaZuoK9yyHAmnehQgH5F6-Y40JoAAfUnjvwRm8XDyXe2_BrrWTwyiSfLcRp9XO5y9Fs672obP-L_te4_EhCLTnlAATYjJqW5rKcGRjFSGhS_k2auBF99gT4XWYt-6UD_L6vVHg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Xa lộ Hà Nội, Trường Thọ"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.713029,
+               "lng" : 106.626131
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "017e5503fca871353daf060a737a85803383aa3b",
+         "name" : "BẾN XE BUÝT MỄ CỐC",
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118038245849841349286/photos\"\u003eThanh Tao\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA-bNaenWFvAZcJ9-kQmZcV-hFzKU1CPurN545O6I6yXK3jo_eJVOvIgHr8IMdSFISUtc_WPSiY0kphbjD3lNS96wk5gfZH3icOOb1JXveqfhbLVME9L0jAa2nsuUX_x1UEhDhY4Z2ZgM74xxoCfdCO3_DGhTCstLE24tu0KOtKsKlSfHH6CTuAQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJHzjFSvwtdTER95kZOIDGs8w",
+         "reference" : "CnRtAAAA8wpmCuXl4VUAZcz_ctW2CGRza961OQ4q5fBikvPg9HsZWEM6EKUMarqkYBdnXCanmRKujuCbS10JXijVxUV98LDrH5O7kvjOeYptEsdMlql9DinLEM_p0e41Oq05yOjXkRLhm4fS6el3qaKBct481xIQiR5ZrZxY7Gnj_Km0xUFEiBoUXdNPbFvfKBTtoLNstDCoeSEvK1c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vietnam"
+      }
+   ],
+   "status" : "OK"
+}
