@@ -2,17 +2,37 @@
 "taxi_list":
 [{
   "logoUrl":"http://www.vinasuntaxi.com/Data/Sites/1/media/Taxi-4cho-vios.jpg",
-  "brandName": "VINASUN TAXI",
+  "brandName": "Taxi Vinasun",
   "address": "Head Office: 648 Nguyễn Trãi, F.11, Quận 5, Hồ Chí Minh, Vietnam",
   "phone": "(+84) 8 3827 2727"
 },{
-  "logoUrl":"http://www.vinasuntaxi.com/Data/Sites/1/media/Taxi-4cho-vios.jpg",
-  "brandName": "VINASUN TAXI",
-  "address": "Head Office: 648 Nguyễn Trãi, F.11, Quận 5, Hồ Chí Minh, Vietnam",
-  "phone": "(+84) 8 3827 2727"
+  "logoUrl":"http://otopro.com.vn/uploads/rent/1416194571xe-TAXI-mau-xanh.jpg",
+  "brandName": "Taxi Mai Linh",
+  "address": "Head Office: 64-68 Hai Bà Trưng, phường Bến Nghé, Quận 1, Tp. Hồ Chí Minh.",
+  "phone": "(+84) 8 3838 3838"
 },{
-  "logoUrl":"http://www.vinasuntaxi.com/Data/Sites/1/media/Taxi-4cho-vios.jpg",
-  "brandName": "VINASUN TAXI",
-  "address": "Head Office: 648 Nguyễn Trãi, F.11, Quận 5, Hồ Chí Minh, Vietnam",
-  "phone": "(+84) 8 3827 2727"
+  "logoUrl":"http://www.vinabeez.com/en/pages/vinataxi/p2.jpg",
+  "brandName": "Vina Taxi",
+  "address": "Head Office: Lô IV - 15B Đường số 4 - KCN Tân Bình, P.Tây Thạnh, Q.Tân Phú, TP.HCM",
+  "phone": "(+84) 8 3811 1111"
+},{
+  "logoUrl":"http://www.vinabeez.com/en/pages/vinataxi/p2.jpg",
+  "brandName": "Taxi Dầu Khí",
+  "address": "Head Office: 186 Điện Biên Phủ, P.6. Quận 3, Thành Phố Hồ Chí Minh",
+  "phone": "(+84) 8 3835 3535"
+},{
+  "logoUrl":"http://quanlytaxi.vn/images/hoatdong/taxi-cuu-long.jpg",
+  "brandName": "Taxi Dầu Khí",
+  "address": "Head Office: 186 Điện Biên Phủ, P.6. Quận 3, Thành Phố Hồ Chí Minh",
+  "phone": "(+84) 8 3835 3535"
+},{
+  "logoUrl":"http://www.taxihochiminhcity.com/upload/image/thanhvien/02-52-48-28-09-2013-saigonairtaxi.jpg",
+  "brandName": "Saigon Air Taxi",
+  "address": "Head Office: 33A Truong Son Street, Ward 4, Tan Binh Dist, HCMC",
+  "phone": "(+84) 8 3811 8118"
+},{
+  "logoUrl":"http://ketnoitaxi.com/wp-content/uploads/taxi-sai-gon-hoang-long.jpg",
+  "brandName": "Taxi Hoàng Long",
+  "address": "Head Office: 149 Nguyen Van Cu, Ward 2, District 5, HCM City. ",
+  "phone": "(+84) 8 3868 6868"
 }]}
