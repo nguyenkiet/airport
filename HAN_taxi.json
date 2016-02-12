@@ -1,1 +1,28 @@
-
+{"success":true,
+"taxi_list":
+[{
+  "logoUrl":"http://static.demo.nasco.vn/store/category/0/0/34/141115134709.jpg.370.220.jpg",
+  "brandName": "Airport Taxi",
+  "address": "Head Office: Sân bay quốc tế Nội Bài - xã Phú Minh - huyện Sóc Sơn - Hà Nội",
+  "phone": "(+84) 4 3886 6666"
+},{
+  "logoUrl":"http://www.abay.vn/Images/Taxi/taxi.png",
+  "brandName": "NoiBai Taxi",
+  "address": "Head Office: K9+400 , Quốc Lộ 2 , Thanh Xuân , Sóc Sơn , Hà Nội.",
+  "phone": "(+84) 4 3886 8888"
+},{
+  "logoUrl":"http://cdn.vietnamtravelguy.com/wp-content/uploads/2012/08/IMG_2883.jpg",
+  "brandName": "Taxi Mai Linh",
+  "address": "Head Office: Ngõ 72 Trần Thái Tông, P.Dịch Vọng, Q. Cầu Giấy, Hà Nội",
+  "phone": "(+84) 4 3822 2666"
+},{
+  "logoUrl":"https://raw.githubusercontent.com/nguyenkiet/airport/master/images/taxi_sanbay.jpg",
+  "brandName": "Taxi Sân Bay",
+  "address": "Head Office: 186 Đường Láng - Đống Đa – Hà Nội",
+  "phone": "(+84) 4 3563 6666"
+},{
+  "logoUrl":"http://img.muaban.net/uploads/images/9/4/7/2/7/9472743_dsc02936.jpg",
+  "brandName": "Taxi Sao Ha Noi",
+  "address": "Head Office: Số 14 Lô 12B Đường Trung Yên 10 - Cầu Giấy - Hà Nội",
+  "phone": "(+84) 8 3253 5353"
+}]}
