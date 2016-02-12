@@ -16,18 +16,13 @@
   "address": "Head Office: Ngõ 72 Trần Thái Tông, P.Dịch Vọng, Q. Cầu Giấy, Hà Nội",
   "phone": "(+84) 4 3822 2666"
 },{
-  "logoUrl":"http://quanlytaxi.vn/images/hoatdong/taxi-cuu-long.jpg",
+  "logoUrl":"https://raw.githubusercontent.com/nguyenkiet/airport/master/images/taxi_sanbay.jpg",
   "brandName": "Taxi Sân Bay",
   "address": "Head Office: 186 Đường Láng - Đống Đa – Hà Nội",
   "phone": "(+84) 4 3563 6666"
 },{
-  "logoUrl":"http://www.taxihochiminhcity.com/upload/image/thanhvien/02-52-48-28-09-2013-saigonairtaxi.jpg",
-  "brandName": "Saigon Air Taxi",
-  "address": "Head Office: 33A Truong Son Street, Ward 4, Tan Binh Dist, HCMC",
-  "phone": "(+84) 8 3811 8118"
-},{
-  "logoUrl":"http://ketnoitaxi.com/wp-content/uploads/taxi-sai-gon-hoang-long.jpg",
-  "brandName": "Taxi Hoàng Long",
-  "address": "Head Office: 149 Nguyen Van Cu, Ward 2, District 5, HCM City. ",
-  "phone": "(+84) 8 3868 6868"
+  "logoUrl":"http://img.muaban.net/uploads/images/9/4/7/2/7/9472743_dsc02936.jpg",
+  "brandName": "Taxi Sao Ha Noi",
+  "address": "Head Office: Số 14 Lô 12B Đường Trung Yên 10 - Cầu Giấy - Hà Nội",
+  "phone": "(+84) 8 3253 5353"
 }]}
