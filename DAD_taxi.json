@@ -1,1 +1,23 @@
-
+{"success":true,
+"taxi_list":
+[{
+  "logoUrl":"http://tacxi.vn/img/20160304/taxi-mai-linh.jpg",
+  "brandName": "Taxi Mai Linh",
+  "address": "Head Office: 89 Thái Phiên, Phường Phước Minh, Quận Hải Châu",
+  "phone": "(+84) 511.3.56.56.56"
+},{
+  "logoUrl":"http://nld.vcmedia.vn/2014/lo-go-tien-sa-1415590882614.jpg",
+  "brandName": "Taxi Tiên Sa",
+  "address": "Head Office: 150 đường 2/9.",
+  "phone": "(+84) 511.3.79.79.79"
+},{
+  "logoUrl":"http://tacxi.vn/img/20160304/taxi.jpg",
+  "brandName": "Taxi Sông Hàn",
+  "address": "Head Office: 199 Bế Văn Đàn",
+  "phone": "(+84) 511.3.72.72.72"
+},{
+  "logoUrl":"http://tacxi.vn/img/20160304/vinasun-green-taxi.png",
+  "brandName": "Taxi VinaSun Green",
+  "address": "Head Office: 277 Nguyễn Hữu Thọ, Phường Hòa Cường Bắc, Quận Hải Châu",
+  "phone": "(+84) 511.3.68.68.68"
+}]}
