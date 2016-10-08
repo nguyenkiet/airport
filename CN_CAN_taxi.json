@@ -2,12 +2,12 @@
 {"success":true,
 "taxi_list":
 [{
-  "logoUrl":"http://tacxi.vn/img/20160304/taxi-mai-linh.jpg",
+  "logoUrl":"http://tacxi.vn/img/20160304/taxi.jpg",
   "brandName": "Guangzhou Baiyun District Taxi",
   "address": "Head Office: Room 201, 27 Cunqian Jie, Lujing Lu Yunxiu District, Guangzhou",
   "phone": "020 8359 5815"
 },{
-  "logoUrl":"http://nld.vcmedia.vn/2014/lo-go-tien-sa-1415590882614.jpg",
+  "logoUrl":"http://tacxi.vn/img/20160304/taxi.jpg",
   "brandName": "Guangzhou Baiyun Taxi",
   "address": "Head Office: 1F, 81 Meihua Lu, Yuexiu District, Guangzhou",
   "phone": "020 8766 7325"
@@ -17,7 +17,7 @@
   "address": "Head Office: 4th Floor, 50-52 Hedong Lu, Fangcun District, Guangzhou",
   "phone": "020 2809 8000"
 },{
-  "logoUrl":"http://tacxi.vn/img/20160304/vinasun-green-taxi.png",
+  "logoUrl":"http://tacxi.vn/img/20160304/taxi.jpg",
   "brandName": "Guangzhou Pengda Taxi",
   "address": "Head Office: 168 Zhudao Garden, Shahe Lu, Guangzhou",
   "phone": "020 8198 9755"
