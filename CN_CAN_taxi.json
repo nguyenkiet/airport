@@ -1,5 +1,6 @@
 
 {"success":true,
+"message": "This is message note",
 "taxi_list":
 [{
   "logoUrl":"http://tacxi.vn/img/20160304/taxi.jpg",
